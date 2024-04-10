@@ -3,6 +3,7 @@ Aim: To store and manage employee details in the company.
 • The main purpose of the project was to effectively store company employee details.
 
 Technologies :
+
 Java : Core programming language for development.
 
 Hibernate : Object-relational mapping for simplified database interactions.
