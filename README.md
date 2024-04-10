@@ -10,3 +10,7 @@ Technologies and Tools used:
 • Designed and implemented a RESTful API for seamless communication between client and server using Spring Boot Framework.
 • Used MYSQL for database management, including schema design and query optimization.
 • Using Angular Framework created user friendly Interface. 
+
+
+
+
