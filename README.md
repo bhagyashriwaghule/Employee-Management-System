@@ -1,4 +1,4 @@
-#  Employee management system
+#  Employee Management System
 # Aim : 
 To store and manage employee details in the company.
 
