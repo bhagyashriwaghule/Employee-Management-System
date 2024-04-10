@@ -1,5 +1,4 @@
 Aim: To store and manage employee details in the company.
-
 • Developed Interface for Employee management system and implemented functions to display employees, add new employee, update existing employee, delete employee.
 • The main purpose of the project was to effectively store company employee details.
 
